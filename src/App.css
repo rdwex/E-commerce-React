@@ -1,0 +1,7 @@
+.forgot-password {
+  transition: all 0.5s;
+}
+
+.forgot-password:hover {
+  color: green !important;
+}
